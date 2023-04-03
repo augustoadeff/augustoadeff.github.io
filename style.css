@@ -229,7 +229,7 @@ nav #container {
     margin-bottom: 7px;
 }
 .itemform textarea {
-    background:center / cover no-repeat url(img/textarea-horse.png)
+    background:center / cover no-repeat url(img/textarea-horse.png);
     resize: none;
 }
 .itemform label {
