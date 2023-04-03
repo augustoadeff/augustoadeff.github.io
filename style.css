@@ -230,6 +230,7 @@ nav #container {
 }
 .itemform textarea {
     background:center / cover no-repeat url(img/textarea-horse.png)
+    resize: none;
 }
 .itemform label {
     font-weight: 500;
